@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lgrh
 - 👀 I’m interested in Music
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning French
 - 💞️ I’m looking to collaborate on crazy stuff
 - 📫 How to reach me lgrh@hotmail.com
